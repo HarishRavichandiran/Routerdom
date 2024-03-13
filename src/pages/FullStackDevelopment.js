@@ -13,7 +13,7 @@ const FullStackDevelopment = () => {
               <p className="card-text">
                 This is a brief description of the Full Stack Development course offered at Guvi.
               </p>
-              <a href="#" className="btn btn-primary">
+              <a className="btn btn-primary">
                 Learn More
               </a>
             </div>

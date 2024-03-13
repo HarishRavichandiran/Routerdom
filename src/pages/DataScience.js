@@ -13,7 +13,7 @@ const DataScience = () => {
               <p className="card-text">
                 This is a brief description of the Data Science course offered at Guvi.
               </p>
-              <a href="#" className="btn btn-primary">
+              <a className="btn btn-primary">
                 Learn More
               </a>
             </div>

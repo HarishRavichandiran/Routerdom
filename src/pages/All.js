@@ -7,13 +7,13 @@ const All = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="Just to Specify the ALL thing" />
+            <img src={imageUrl} className="card-img-top" alt="All Image" />
             <div className="card-body">
               <h5 className="card-title">All Courses</h5>
               <p className="card-text">
                 This is a brief description of all the courses offered at Guvi.
               </p>
-              <a href="#" className="btn btn-primary">
+              <a href="#!" className="btn btn-primary">
                 Learn More
               </a>
             </div>

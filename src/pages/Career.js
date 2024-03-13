@@ -7,13 +7,13 @@ const Career = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="Just to specify a thing " />
+            <img src={imageUrl} className="card-img-top" alt="Career Image" />
             <div className="card-body">
               <h5 className="card-title">Career</h5>
               <p className="card-text">
                 This is a brief description of the Career course offered at Guvi.
               </p>
-              <a href="#"className="btn btn-primary">
+              <a href="#!" className="btn btn-primary">
                 Learn More
               </a>
             </div>

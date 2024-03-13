@@ -13,7 +13,7 @@ const Career = () => {
               <p className="card-text">
                 This is a brief description of the Career course offered at Guvi.
               </p>
-              <a className="btn btn-primary">
+              <a href="#"className="btn btn-primary">
                 Learn More
               </a>
             </div>

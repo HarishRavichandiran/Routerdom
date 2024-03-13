@@ -7,7 +7,7 @@ const CyberSecurity = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="Cyber Security Image" />
+            <img src={imageUrl} className="card-img-top" alt="Cyber Security " />
             <div className="card-body">
               <h5 className="card-title">Cyber Security</h5>
               <p className="card-text">

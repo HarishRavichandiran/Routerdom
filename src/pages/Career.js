@@ -7,7 +7,7 @@ const Career = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="Career Image" />
+            <img src={imageUrl} className="card-img-top" alt="Career" />
             <div className="card-body">
               <h5 className="card-title">Career</h5>
               <p className="card-text">

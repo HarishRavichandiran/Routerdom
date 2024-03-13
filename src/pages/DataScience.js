@@ -7,7 +7,7 @@ const DataScience = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="Data Science Image" />
+            <img src={imageUrl} className="card-img-top" alt="To describe data science" />
             <div className="card-body">
               <h5 className="card-title">Data Science</h5>
               <p className="card-text">

@@ -7,7 +7,7 @@ const All = () => {
       <div className="row">
         <div className="col-md-4">
           <div className="card mb-4">
-            <img src={imageUrl} className="card-img-top" alt="All Image" />
+            <img src={imageUrl} className="card-img-top" alt="Just to Specify the ALL thing" />
             <div className="card-body">
               <h5 className="card-title">All Courses</h5>
               <p className="card-text">
